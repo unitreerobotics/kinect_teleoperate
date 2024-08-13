@@ -1,7 +1,7 @@
 # Video Demo
 
 <p align="center">
-    <img src="./img/1.webp" autoplay loop="loop" style="width: 50%" controls>
+<video src="https://doc-cdn.unitree.com/static/2024/8/13/98ca3f9539684ce3bcd4b4d362aac8fd.mp4" autoplay loop="loop" style="width: 50%" controls></video>
 </p>
 
 # Introduction
