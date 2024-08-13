@@ -1,6 +1,8 @@
 # Video Demo
 
-<img src="./img/1.webp" autoplay loop="loop" style="width: 50%" controls></img>
+<p align="center">
+    <img src="./img/1.webp" autoplay loop="loop" style="width: 50%" controls>
+</p>
 
 # Introduction
 
